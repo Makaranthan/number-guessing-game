@@ -23,4 +23,4 @@ Python CLI project: number guessing game with functions
 - Practice with functions and loops  
 - Understand random number generation  
 - Logical thinking & user interaction
-- 
+
